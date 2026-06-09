@@ -1,4 +1,4 @@
-# 
+# 即时 Canva 扩展 Mac OS版 | 更新 Canva 扩展 PC Windows版。集成 图案填充 和 洋葱皮，跨平台性能最大化。
 
 
 
